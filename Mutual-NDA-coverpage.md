@@ -7,7 +7,7 @@ This Mutual Non-Disclosure Agreement (the “MNDA”) consists of: (1) this Cove
 ### Purpose
 <label>How Confidential Information may be used</label>
 
-[Evaluating whether to enter into a business relationship with the other party.]
+[Evaluating whether to enter into a business relationship with the other party and/or receiving consulting services from the other party.]
 
 ### Effective Date
 [Today’s date]
@@ -23,16 +23,16 @@ This Mutual Non-Disclosure Agreement (the “MNDA”) consists of: (1) this Cove
 - [ ]     In perpetuity.
 
 ### Governing Law & Jurisdiction
-Governing Law: [Fill in state]
+Governing Law: [California]
 
-Jurisdiction: [Fill in city or county and state, i.e. “courts located in New Castle, DE”]
+Jurisdiction: [courts located in Los Angeles County, CA]
 
 ### MNDA Modifications
 List any modifications to the MNDA
 
 By signing this Cover Page, each party agrees to enter into this MNDA as of the Effective Date.
 
-|| PARTY 1 | PARTY 2 |
+|| Jeremiah Bradshaw | Kurt Wuckert Jr. |
 |:--- | :----: | :----: |
 | Signature | | |
 | Print Name | |
