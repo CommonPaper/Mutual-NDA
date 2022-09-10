@@ -9,5 +9,8 @@ Version 1 of this agreement will remain unchanged and hosted on [this page forev
 ### How do I use this agreement?
 To execute an agreement using the Common Paper MNDA, first download a copy of the Cover Page in your preferred format. Then finalize the terms of the agreement with your counterparty and input those terms into the corresponding bracketed section of the Cover Page. Finally, sign your Cover Page with your counterparty via the signing process of your choice. The Cover Page incorporates the Standard Terms by reference, completing the executed agreement. Watch this short video to see the process in action.
 
+### How do I mechanically validate this contract when working with others?
+See [the verification explanation](README-VERIFY.md).
+
 ### What license is this agreement released under?
 Common Paper agreements are free to use and modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
