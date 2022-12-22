@@ -36,4 +36,4 @@
 
 {{MNDA_Modifications}}
 
-Common Paper Mutual Non-Disclosure Agreement with All [Version 1.0-preimage-lmd](https://commonpaper.com/standards/mutual-nda/1.0/) free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Common Paper Mutual Non-Disclosure Agreement with All Variables [Version 1.0-preimage-lmd](https://commonpaper.com/standards/mutual-nda/1.0/) free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
