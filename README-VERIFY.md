@@ -20,16 +20,16 @@ There are two artifacts that are useful:
 
     ```
     ---
-    Party_1_Details: |
+    Party 1: |
       Muj Axmed Jimcaale Road, Hargeisa, Republic of Somaliland
       Watershed Legal Services, Ltd.
       the Republic of Somaliland
-    Party_2_Details: |
+    Party 2: |
       Jawaharlal Nehru Marg opp. Raj Ghat
       Vikram Nagar
       New Delhi, Delhi 110002
       India
-    Effective_Date: 2022-09-09
+    Effective Date: 2022-09-09
     Jurisdiction: Regional Court of Margeisa
     ---
     ```
