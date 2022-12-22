@@ -44,6 +44,20 @@ There are benefits of this type of full contract:
 
 * A program can extract the base contract and quickly check that the contents are exactly as expected, ie. it matches the Common Paper MNDA exactly.
 
+### Where do I find the canonical hashes?
+
+* Mutual-NDA.md
+  * [SHA-256](Mutual-NDA.md.sha256sum)
+  * [CIDv0])(Mutual-NDA.md.cidv0)
+
+* Mutual-NDA-coverpage.md
+  * [SHA-256](Mutual-NDA-coverpage.md.sha256sum)
+  * [CIDv0](Mutual-NDA-coverpage.md.cidv0)
+
+* Mutual-NDA-with-all-variables.md
+  * [SHA-256](Mutual-NDA-with-all-variables.md.sha256sum)
+  * [CIDv0](Mutual-NDA-with-all-variables.md.cidv0)
+
 ### References
 
 * Legal Markdown, in [go](https://github.com/compleatang/legalmarkdown) and [ruby](https://github.com/compleatang/legal-markdown).
